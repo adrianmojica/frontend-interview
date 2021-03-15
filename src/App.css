@@ -1,3 +1,32 @@
 .App {
   margin: 20px;
 }
+
+body {
+  background-color: #4f4fe2;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+.title {
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.app-frame {
+  max-width:50%;
+  margin: auto;
+  background: white;
+  border-radius: 10px;
+}
+
+.card {
+  max-width: 80%;
+  margin: auto;
+}
+
+#detail {
+  min-height: 410px;
+}
